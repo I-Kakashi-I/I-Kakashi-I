@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://twitter.com/mohammed_muonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammed_muonir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammed-mounir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-mounir" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed mounir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed mounir" height="30" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100009284180353r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed mounir" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed_muonir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_muonir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucweocscbms5qjl848qrfuaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucweocscbms5qjl848qrfuaw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWEoCSCbmS5qJL848QRfUAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucweocscbms5qjl848qrfuaw" height="30" width="40" /></a>
 <a href="https://discord.gg/ZkthkG7EXR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZkthkG7EXR" height="30" width="40" /></a>
 </p>
 
