@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-kakashi-i&label=Profile%20views&color=0e75b6&style=flat" alt="i-kakashi-i" /> </p>
 
-- 🔭 I’m currently working as **SoftWare Engineer**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently freelancing **Penetration Testing**
 
